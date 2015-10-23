@@ -2,15 +2,15 @@
     <channel>
         <title><![CDATA[Rajiv Ayyangar]]></title>
         <description><![CDATA[Rajiv Ayyangar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rajiv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 23:43:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 23 Oct 2015 23:44:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rajiv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined2a64f5b7-21f9-43c1-9c80-2584163bc00d/index.html</link>
+            <link>https://thegrid.ai/rajiv/2a64f5b7-21f9-43c1-9c80-2584163bc00d/index.html</link>
             <guid isPermaLink="false">2a64f5b7-21f9-43c1-9c80-2584163bc00d</guid>
-            <pubDate>Fri, 23 Oct 2015 23:43:10 GMT</pubDate>
+            <pubDate>Fri, 23 Oct 2015 23:43:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
