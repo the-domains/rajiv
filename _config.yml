@@ -1,7 +1,7 @@
 name: rajiv
 favicon: null
-layout_spectrum: 0.5901449793018401
-typography_spectrum: 0.2038450746331364
+layout_spectrum: 0.54732
+typography_spectrum: 0.9931
 title: Rajiv Ayyangar
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#624112'
   brandStrength: 0.8571245707571507
   lightness: 0.7032517387997359
-  saturation: 0.19681276893243194
-  rhythmicContrast: 0.2570064873434603
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
