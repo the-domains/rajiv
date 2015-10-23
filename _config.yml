@@ -1,0 +1,23 @@
+name: rajiv
+favicon: null
+layout_spectrum: 0.5901449793018401
+typography_spectrum: 0.2038450746331364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8571245707571507
+  lightness: 0.7032517387997359
+  saturation: 0.19681276893243194
+  rhythmicContrast: 0.2570064873434603
+purpose: []
